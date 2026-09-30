@@ -73,7 +73,7 @@ I analysed the business requirements and designed a relational database system u
 
 ### SpeedyTravel Database Menus and Sub-menus
 
-![Database Menus & Sub-menus](screenshots/speedytravel-menu&submenus.png)
+![Database Menus & Sub-menus](screenshots/speedytravel-menu and submenus.png)
 
 ### Data Entry Form
 
